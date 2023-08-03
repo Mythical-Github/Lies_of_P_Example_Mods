@@ -193,5 +193,6 @@ if exist "%new_example_mod_pdb%" (
 rem Running game with newly built files
 "%game_exe%"
 
+pause
 
 exit /b
